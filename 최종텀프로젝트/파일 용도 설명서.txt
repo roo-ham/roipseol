@@ -1,0 +1,12 @@
+1. python 파일에 대해서
+
+avandiII.py 어벤디 핵심 파일 (서버 통신)
+qr_decoder 사진 cv2 전처리 하고 pyzbar로 데이터화
+
+roipseol_ppt_handler.py 로입설 핵심 파일 (서버 통신, ppt 이미지화, cv2로 이미지 출력)
+
+2. ino 파일에 대해서
+
+어벤디, 로입설로 구분되어 있음
+
+3. 다이나믹셀 라이브러리 (뭐... 다운받아쓰면되죠?)
